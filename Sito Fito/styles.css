@@ -1,0 +1,173 @@
+#brani-t {
+    color: black;
+    font-size: 40px;
+    text-shadow:
+        -1px -1px 0 #fff,  
+         1px -1px 0 #fff,
+        -1px  1px 0 #fff,
+         1px  1px 0 #fff;
+    background-color: #000;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: fit-content;
+
+}
+
+h1 {
+    text-align: center;
+    color:white;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-family: sans-serif;
+}
+
+.brano-title {
+    text-align: center;
+    color:white;
+    font-size: 26px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+        text-shadow:
+        -1px -1px 0 #000,  
+         1px -1px 0 #000,
+        -1px  1px 0 #000,
+         1px  1px 0 #000;
+}
+
+body {
+    background-color: #181818;
+    margin: 0;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+audio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top : 20px;
+}
+
+#presentazione {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+
+#primo-brano {
+    background-image: url(Zeldabanner.jpg);
+    background-size: 100% 100%;
+    margin-top: 0px;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+#secondo-brano {
+    background-image: url(Kirbybanner.jpg);
+    background-size: 100% 100%;
+    margin-top: 0px;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+hr {
+    color: black;
+    background-color: black;
+    border-color: #000;
+    margin: 0px;
+    height: 2px;
+}
+
+#hr2 {
+    margin: 0px
+}
+
+#hr1 {
+    margin: 0px;
+}
+
+.brano-audio {
+    position: relative;
+    top: -10px;
+    margin-bottom: 0; 
+}
+
+#img-primo-brano {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    aspect-ratio: 16 / 9;
+}
+
+#img-secondo-brano {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    aspect-ratio: 16 / 9;
+}
+
+#brani-t-container {
+    background-image: url(Branibanner.png);
+    margin: 0;
+    background-size: cover;      
+    background-position: center;
+    padding: 30px 0; 
+    margin-top: 0px;
+}
+
+#hr0 {
+    margin: 0px;
+}
+
+#terzo-brano {
+    background-image: url(PMDbanner.jpg);
+    background-size: 100% 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+#hrfinale {
+    margin: 0px;
+}
+
+#footer-list {
+    margin:  auto;
+    display:table;
+    text-align: left;
+    background-color: grey;
+}
+
+#youtube-link  {
+    list-style-image: url(Youtube_logo.png);
+}
+
+#x-link {
+    list-style-image: url(x_logo.png);
+}
+
+#git-link {
+    list-style-image: url(Github_logo.png);
+}
+
+footer {
+    background: linear-gradient(to right, #222, #222);
+    margin-top: 0px;
+}
