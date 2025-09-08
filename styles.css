@@ -121,8 +121,12 @@ hr {
     margin-left: auto;
     margin-right: auto;
     aspect-ratio: 16 / 9;
+}
+
+#img-secondo-brano:hover {
     transform: scale(1.1);
 }
+    
 
 #brani-t-container {
     background-image: url(Branibanner.png);
@@ -206,3 +210,4 @@ footer {
     margin-top: 0px;
 
 }
+
