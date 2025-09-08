@@ -121,6 +121,7 @@ hr {
     margin-left: auto;
     margin-right: auto;
     aspect-ratio: 16 / 9;
+    transform: scale(1.1);
 }
 
 #brani-t-container {
@@ -203,4 +204,5 @@ hr {
 footer {
     background: linear-gradient(to right, #222, #222);
     margin-top: 0px;
+
 }
